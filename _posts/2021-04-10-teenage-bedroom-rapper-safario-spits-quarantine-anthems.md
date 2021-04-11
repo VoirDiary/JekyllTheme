@@ -1,9 +1,12 @@
 ---
 title: Teenage Bedroom Rapper Safario Spits Quarantine Anthems
 tags:
-  - Purpose
-  - Inspiration
-category: Essays
+  - Reviews
+  - Music
+  - Music Reviews
+  - Op-Eds
+  - Safario
+category: Reviews
 ---
 
 While most of us have been picking lint from between our toes and complaining about cabin-fever, 19-year-old Polish-born musician Safario has been hard at work. From his home in Oslo, Safario (whose real name is Kacper Tratkowski), has been churning out singles that may be just what we need in these trying times. The tracks are upbeat, filled with buoyant synth layered on snappy percussion. Safario's vocals are equal parts rap and dance, with brilliant rhyme sequences that are both rhythmically complex and melodic enough to hum. It's difficult to place Safa (as his fans call him) in any rap subgenre. But, experimental pop rap seems to fit the bill.
