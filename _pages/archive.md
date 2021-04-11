@@ -12,7 +12,7 @@ title: Archive of All Collections
   <h2>Entries from {{ collection.label | capitalize }}</h2>
   <ul>
     {% for item in site[collection.label] %}
-      <li class="archive-links"><a href="{{ item.url }}">{{ item.title }}</a></li>
+      <li class="archive-links"><a href="{{ item.url | relative_url }}">{{ item.title }}</a></li>
     {% endfor %}
   </ul>
   {% endif %}
