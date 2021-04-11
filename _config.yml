@@ -18,16 +18,15 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: "Purelog: for Writers"
-email: mail@brennanbrown.ca
+title: "Voir Diary"
+email: erin@voirdiary.com
 description: >- # this means to ignore newlines until "baseurl:"
-  A responsive sidebar Jekyll theme using the Pure.css framework,
-  designed for writers and bloggers of all kinds.
-baseurl: "/dairy" # the subpath of your site, e.g. /blog
+  Personal writing.
+baseurl: "/diary" # the subpath of your site, e.g. /blog
 url: "https://voirdiary.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-repository: brennanbrown/purelog
-twitter: brennankbrown
-github: brennanbrown
+repository: VoirDiary/diary
+twitter: voirdiarrhea
+github: voirdiary
 
 header_image: assets/IMG_1663.PNG
 
@@ -35,13 +34,9 @@ google_analytics:
 comments: true
 disqus: purelog-jekyll
 
-author: Erin Caldwell
+author: Erin 
 author_bio: >-
-  Hey there! 😄 My name is Erin Caldwell, I'm a 24-year-old Métis web developer and
-  content strategist from Winnipeg, Manitoba and currently reside in Calgary,
-  Alberta. I've recently compeleted a Full Stack Developer Program at EvolveU,
-  and I'm looking to help those that need web development work done, or
-  searching for ideas and management for their next content project.
+  Hey there! 😄 My name is Erin.  Here you will find my personal writing.  Enjoy!
 author_pic: /assets/IMG_1663.png
 
 paginate: 4
@@ -67,7 +62,7 @@ defaults:
       type: "posts" # previously `post` in Jekyll 2.2.
     values:
       layout: "post"
-      author: Erin Caldwell
+      author: Erin 
       avatar: assets/profile-sm.png
   - scope:
       path: ""
